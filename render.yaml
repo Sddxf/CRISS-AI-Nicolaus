@@ -3,7 +3,7 @@ services:
     name: CRISS-AI
     env: node
     plan: free
-    repo: https://github.com/criss-vevo/CRISS-AI
+    repo: https://github.com/Sddxf/CRISS-AI-Nicolaus
     branch: main
     buildCommand: npm install
     startCommand: npm start
